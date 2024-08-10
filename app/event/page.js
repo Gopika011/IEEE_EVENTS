@@ -1,3 +1,4 @@
+'use client'
 import ImageContainer from '../components/ImageContainer.jsx'
 import HeroTab from '../components/HeroTab'
 
